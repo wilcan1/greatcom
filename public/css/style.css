@@ -1,0 +1,54 @@
+body {
+	background-color: #f1f3f4;  
+}
+/*NAVBAR*/
+.active{
+  background-color:#d90000!important;
+  color:#fff!important;
+
+}
+/* ACCUEIL */
+h5,h4, h3, h2 {
+	color: #52AC44;
+}
+h2 a {
+	color: #52AC44;
+}
+h2 a:hover {
+	color: #4e5142;
+}
+.icoplus {
+	color:  #2977a0;
+}
+.btn-ac {
+	color: #52AC44!important;
+}
+.btn-ac2 {
+	background-color: #4486ac;
+	border: none;
+}
+.btn-ac2:hover {
+	background-color: #2977a0;
+}
+/*Logo*/
+#logo {
+	width: 7.5em;
+}
+#logo_noir {
+	width: 8em;
+}
+#logo_plus {
+	width: 5em;
+}
+/*PAGE CONATCT*/
+.goomap {
+	width: 100%;
+	height: 28.5em;
+}
+/* HOME ASIDEPOST*/
+.aside {
+	position: fixed; bottom: 0%; top: 25%;
+}
+li {
+	list-style: none!important;
+}
